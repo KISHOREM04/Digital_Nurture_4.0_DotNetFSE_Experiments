@@ -1,4 +1,4 @@
-#  E-commerce Platform – Product Search Function
+# E-commerce Platform – Product Search Function
 
 ## Scenario: 
 You are working on the search functionality of an e-commerce platform. The search needs to be optimized for fast performance.
