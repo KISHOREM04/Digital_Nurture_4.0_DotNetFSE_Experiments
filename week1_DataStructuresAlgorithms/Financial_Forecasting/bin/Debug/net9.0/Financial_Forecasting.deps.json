@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Financial_Forecasting/1.0.0": {
+        "runtime": {
+          "Financial_Forecasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Financial_Forecasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
