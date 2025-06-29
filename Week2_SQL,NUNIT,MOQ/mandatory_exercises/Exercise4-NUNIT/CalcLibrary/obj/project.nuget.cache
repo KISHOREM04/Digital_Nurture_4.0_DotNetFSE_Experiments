@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWO+0XAlXGI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\SEC\\OneDrive\\Documents\\Digital_Nurture_4.0_DotNetFSE\\Week2_SQL,NUNIT,MOQ\\Mandatory-Exercises\\Exercise4-NUNIT\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SEC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = CalcLibrary
+build_property.ProjectDir = c:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week2_SQL,NUNIT,MOQ\Mandatory-Exercises\Exercise4-NUNIT\CalcLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
